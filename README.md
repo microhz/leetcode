@@ -1,2 +1,2 @@
-# leetcode
-record the perserve
+# introduce
+this repository record a young chinese
